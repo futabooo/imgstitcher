@@ -1,8 +1,28 @@
 # imgstitcher
+Inspired by https://github.com/morishin/image-stitcher
 
 ## Description
+stitcher images
+![screenshot](https://github.com/futabooo/imgstitcher/blob/master/docs/image.png)
 
 ## Usage
+
+```
+$imgstitcher -h                                                                                                                                                                                                     (git)-[master]
+Usage of imgstitcher:
+  -o string
+    	Output File Name(Short)
+  -output string
+    	Output File Name
+  -version
+    	Print version information and quit.
+```
+
+execute
+
+```
+$ imgstitcher -o output.png image-1.png image-2.png
+```
 
 ## Install
 
